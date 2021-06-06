@@ -825,7 +825,7 @@
 #app-mount .anchor-3Z-8Bb,
 #app-mount .executedCommand-2GE3w2 .commandName-1klrjB,
 #app-mount .markup-2BOw-j a {
-    color: var(--gradientColor01) !important
+    color: linear-gradient(90deg, rgba(254, 0, 0, 1) , rgba(253, 140, 0, 1) , rgba(255, 229, 0, 1) , rgba(17, 159, 11, 1) , rgba(6, 68, 179, 1) , rgba(194, 46, 220, 1)) !important;
 }
 
 #app-mount .lookLink-9FtZy-.colorBrand-3pXr91 {
