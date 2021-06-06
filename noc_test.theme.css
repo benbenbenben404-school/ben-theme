@@ -266,7 +266,7 @@
     height: 2px;
     width: 100%;
     background-color: var(--gradientColor01);
-    background-image: linear-gradient(90deg, rgba(254, 0, 0, 1) , rgba(253, 140, 0, 1) , rgba(255, 229, 0, 1) , rgba(17, 159, 11, 1) , rgba(6, 68, 179, 1) , rgba(194, 46, 220, 1)) !important;
+    background-image: linear-gradient(90deg, rgba(254, 0, 0, 1), rgba(253, 140, 0, 1), rgba(255, 229, 0, 1), rgba(17, 159, 11, 1), rgba(6, 68, 179, 1), rgba(194, 46, 220, 1)) !important;
     -webkit-transition: transform .2s ease;
     -ms-transition: transform .2s ease;
     -o-transition: transform .2s ease;
@@ -626,7 +626,8 @@
 }
 
 #app-mount .circleIconButton-1QV--U {
-    background-image: linear-gradient(90deg, rgba(254, 0, 0, 1) , rgba(253, 140, 0, 1) , rgba(255, 229, 0, 1) , rgba(17, 159, 11, 1) , rgba(6, 68, 179, 1) , rgba(194, 46, 220, 1)) !important ;
+    background-image: linear-gradient(150deg, rgba(254, 0, 0, 1) 0%, rgba(254, 0, 0, 1) 17%, rgba(253, 140, 0, 1) 17%, rgba(253, 140, 0, 1) 33%, rgba(255, 229, 0, 1)33%, rgba(255, 229, 0, 1)50%, rgba(17, 159, 11, 1)50%, rgba(17, 159, 11, 1) 67%, rgba(6, 68, 179, 1) 67%, rgba(6, 68, 179, 1), 83%,rgba(194, 46, 220, 1)83.33%) !important;
+
 }
 
 #app-mount .pageWrapper-1PgVDX {
@@ -658,7 +659,7 @@
     height: 36px;
     top: 6px;
     left: 6px;
-    background-image: linear-gradient(30deg, rgba(254, 0, 0, 1) , rgba(253, 140, 0, 1) , rgba(255, 229, 0, 1) , rgba(17, 159, 11, 1) , rgba(6, 68, 179, 1) , rgba(194, 46, 220, 1) fixed) !important;
+    background-image: linear-gradient(30deg, rgba(254, 0, 0, 1), rgba(253, 140, 0, 1), rgba(255, 229, 0, 1), rgba(17, 159, 11, 1), rgba(6, 68, 179, 1), rgba(194, 46, 220, 1) fixed) !important;
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -825,7 +826,7 @@
 #app-mount .anchor-3Z-8Bb,
 #app-mount .executedCommand-2GE3w2 .commandName-1klrjB,
 #app-mount .markup-2BOw-j a {
-    color: linear-gradient(90deg, rgba(254, 0, 0, 1) , rgba(253, 140, 0, 1) , rgba(255, 229, 0, 1) , rgba(17, 159, 11, 1) , rgba(6, 68, 179, 1) , rgba(194, 46, 220, 1)) !important;
+    color: linear-gradient(90deg, rgba(254, 0, 0, 1), rgba(253, 140, 0, 1), rgba(255, 229, 0, 1), rgba(17, 159, 11, 1), rgba(6, 68, 179, 1), rgba(194, 46, 220, 1)) !important;
 }
 
 #app-mount .lookLink-9FtZy-.colorBrand-3pXr91 {
