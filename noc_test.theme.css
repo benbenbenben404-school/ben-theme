@@ -626,7 +626,7 @@
 }
 
 #app-mount .circleIconButton-1QV--U {
-    color: linear-gradient(90deg, rgba(254, 0, 0, 1) , rgba(253, 140, 0, 1) , rgba(255, 229, 0, 1) , rgba(17, 159, 11, 1) , rgba(6, 68, 179, 1) , rgba(194, 46, 220, 1)) !important !important
+    color: linear-gradient(90deg, rgba(254, 0, 0, 1) , rgba(253, 140, 0, 1) , rgba(255, 229, 0, 1) , rgba(17, 159, 11, 1) , rgba(6, 68, 179, 1) , rgba(194, 46, 220, 1)) !important ;
 }
 
 #app-mount .pageWrapper-1PgVDX {
