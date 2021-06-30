@@ -68,7 +68,7 @@ body {
   background-color: transparent; }
 
 .appMount-3lHmkl {
-  background-image: var(--app-bg);
+  background: rgba(1,1,1,0.5);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover; }
@@ -97,7 +97,7 @@ body {
     z-index: -1; }
 
 .typeMacOS-3EmCyP + .app-1q1i1E .layers-3iHuyZ {
-    backdrop-filter: blur(2px)}
+  margin: var(--app-margin); }
 
 .app-2rEoOp,
 .bg-h5JY_x {
