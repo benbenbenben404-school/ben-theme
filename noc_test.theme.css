@@ -97,7 +97,7 @@ body {
     z-index: -1; }
 
 .typeMacOS-3EmCyP + .app-1q1i1E .layers-3iHuyZ {
-  margin: var(--app-margin); }
+    backdrop-filter: blur(2px)}
 
 .app-2rEoOp,
 .bg-h5JY_x {
